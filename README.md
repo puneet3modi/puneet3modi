@@ -93,4 +93,21 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
 - 🧠 **Kaggle**: [Kaggle Profile](https://www.kaggle.com/puneetmodi)
 - 🏅 **LeetCode**: [LeetCode Profile](https://leetcode.com/puneet3modi)
 - 🟩 **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/puneet3modi)
-- 📊 **StrataScratch**: [StrataScratch Profile](https://platform.stratascratch.com/user/puneet3modi)
+- 🧩 **StrataScratch**: [StrataScratch Profile](https://platform.stratascratch.com/user/puneet3modi)
+
+## 🚀 Coding Challenges
+<p align="left">
+  <a href="https://leetcode.com/puneet3modi">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.kaggle.com/puneetmodi">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/puneet3modi">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://platform.stratascratch.com/user/puneet3modi">
+    <img src="https://img.shields.io/badge/-StrataScratch-4C6EF5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/R0lAAAA" />
+  </a>
+</p>
+
