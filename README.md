@@ -76,7 +76,7 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
 
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://github.com/puneet3modi"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/puneet3modi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/puneet3modi/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/puneet3modi"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
