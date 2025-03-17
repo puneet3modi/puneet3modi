@@ -93,14 +93,10 @@ I have been a competitive **chess player** for over two decades, sharpening my s
 <p align="left">
   <a href="https://leetcode.com/puneet3modi">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" />
-  </a>
   <a href="https://www.kaggle.com/puneetmodi">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white" />
-  </a>
   <a href="https://www.hackerrank.com/puneet3modi">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white" />
-  </a>
   <a href="https://platform.stratascratch.com/user/puneet3modi">
     <img src="https://img.shields.io/badge/-StrataScratch-4C6EF5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/R0lAAAA" />
-  </a>
 </p>
