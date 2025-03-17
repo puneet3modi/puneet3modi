@@ -1,4 +1,4 @@
-# **👨‍💻 Data Scientist | 📊 Quantitative Researcher | 💹 Financial Engineer 🔍**
+# **👨‍💻 Data Scientist | 📊 Quantitative Researcher | 💹 Financial Engineer**
 
 I'm a **Data Scientist** with an **MS in Applied Data Science from the University of Chicago** and currently pursuing an **MSc in Financial Engineering at WorldQuant University**. I also hold a **BS in Mathematics and Economics** from the University of Massachusetts Amherst.
 
@@ -88,21 +88,8 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
   <a href="https://www.chess.com/member/puneet33modi"><img src="https://img.shields.io/badge/-Chess.com-769656?logo=chess.com&logoColor=white" /></a>
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=puneet3modi&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneet3modi&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet3modi&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puneet3modi&theme=tokyonight" />
-</p>
-
-
 ## 📈 GitHub Profile Metrics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=puneet3modi&theme=tokyonight" />
+  <img src="https://metrics.lecoq.io/puneet3modi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&introduction=1&stars=1&achievements=1&activity=1&notable=1" />
 </p>
+
