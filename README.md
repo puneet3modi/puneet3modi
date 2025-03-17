@@ -32,7 +32,7 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
   <a href="https://tidyr.tidyverse.org/"><img src="https://img.shields.io/badge/-tidyr-276DC3?logo=r&logoColor=white" /></a>
   <a href="https://lubridate.tidyverse.org/"><img src="https://img.shields.io/badge/-lubridate-276DC3?logo=r&logoColor=white" /></a>
   <a href="https://shiny.rstudio.com/"><img src="https://img.shields.io/badge/-shiny-276DC3?logo=r&logoColor=white" /></a>
-  <a href="https://www.rdocumentation.org/packages/quantmod/versions/0.4-20"><img src="https://img.shields.io/badge/-quantmod-276DC3?logo=r&logoColor=white" /></a>
+  <a href="https://www.rdocumentation.org/packages/quantmod/versions/0.4.26"><img src="https://img.shields.io/badge/-quantmod-276DC3?logo=r&logoColor=white" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" /></a>
   <a href="https://sqlite.org/index.html"><img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" /></a>
