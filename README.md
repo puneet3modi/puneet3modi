@@ -82,32 +82,16 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
 
 ## 🌐 Connect with me:
 <p align="left">
+  <a href="https://www.linkedin.com/in/puneet3modi/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/puneet3modi"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/puneet3modi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/puneet3modi/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/puneetmodi"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
   <a href="https://medium.com/@puneet33modi"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white" /></a>
   <a href="https://www.chess.com/member/puneet33modi"><img src="https://img.shields.io/badge/-Chess.com-769656?logo=chess.com&logoColor=white" /></a>
 </p>
 
-## 🟩 Contribution Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puneet3modi&theme=tokyonight" />
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=puneet3modi&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneet3modi&layout=compact&theme=tokyonight" />
-</p>
-
-## 🔥 Streak Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet3modi&theme=tokyonight" />
-</p>
-
 ## 🚀 Coding Challenges
-- 🏅 **LeetCode**: [LeetCode Profile](https://leetcode.com/yourusername)
-- 🧠 **Kaggle**: [Kaggle Profile](https://www.kaggle.com/yourusername)
-- 📊 **Project Euler**: [Project Euler Profile](https://projecteuler.net/yourusername)
-
+- 🏅 **LeetCode**: [LeetCode Profile](https://leetcode.com/puneet3modi)
+- 🧠 **Kaggle**: [Kaggle Profile](https://www.kaggle.com/puneetmodi)
+- 🟩 **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/puneet3modi)
+- 📊 **StrataScratch**: [StrataScratch Profile](https://www.stratascratch.com/user/puneet3modi)
+- 🧩 **DataLemur**: [DataLemur Profile](https://datalemur.com/profile/puneet3modi)
