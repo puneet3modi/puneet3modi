@@ -1,8 +1,12 @@
-# 👨‍💻 Data Scientist | Quantitative Researcher | Financial Engineer
+# **👨‍💻 Data Scientist | 📊 Quantitative Researcher | 💹 Financial Engineer 🔍**
 
 I'm a **Data Scientist** with an **MS in Applied Data Science from the University of Chicago** and currently pursuing an **MSc in Financial Engineering at WorldQuant University**. I also hold a **BS in Mathematics and Economics** from the University of Massachusetts Amherst.
 
+🔍 I'm passionate about **FinTech**, **Quantitative Research**, and **Data Science** — always exploring new ways to solve complex problems with data.
+
 💡 My work leverages **machine learning** and **financial modeling**, enabling me to blend mathematical rigor with financial insight to build impactful, data-driven solutions.
+
+♟️ Competitive **chess player** for over two decades, sharpening my strategic thinking and decision-making under pressure.
 
 ## 🔗 Featured Repositories
 - [🧠 **ZenAI - Conversational AI Therapist**](https://github.com/zenn-ai/zen)
@@ -74,10 +78,6 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
 - 🔷 **Microsoft Azure Fundamentals (AZ-900)**  
 - 🧮 Passed multiple **Actuarial exams**  
 
-♟️ Competitive **chess player** for over two decades, sharpening my strategic thinking and decision-making under pressure.
-
-🔍 I'm passionate about **FinTech**, **Quantitative Research**, and **Data Science** — always exploring new ways to solve complex problems with data.
-
 ## 🌐 Connect with me:
 <p align="left">
   <a href="https://github.com/puneet3modi"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
@@ -88,4 +88,21 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
   <a href="https://www.chess.com/member/puneet33modi"><img src="https://img.shields.io/badge/-Chess.com-769656?logo=chess.com&logoColor=white" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=puneet3modi&color=grey)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=puneet3modi&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneet3modi&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet3modi&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puneet3modi&theme=tokyonight" />
+</p>
+
+
+## 📈 GitHub Profile Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=puneet3modi&theme=tokyonight" />
+</p>
