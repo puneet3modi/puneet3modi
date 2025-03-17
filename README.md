@@ -1,4 +1,4 @@
-# 👨‍💻 Data Scientist | Quantitative Finance Enthusiast | FinTech & HFT Explorer
+# 👨‍💻 Data Scientist | Quantitative Researcher | Financial Engineer
 
 I'm a **Data Scientist** with an **MS in Applied Data Science from the University of Chicago** and currently pursuing an **MSc in Financial Engineering at WorldQuant University**. I also hold a **BS in Mathematics and Economics** from the University of Massachusetts Amherst.
 
@@ -9,7 +9,7 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
 - 📈 **Real-Time Trading Bot** – A strategy-driven bot leveraging **Momentum** and **Bollinger Bands**, delivering substantial simulated portfolio gains.
 - 📊 **PowerBI Dashboards** – Developed to streamline decision-making for 100+ stakeholders at the **FDA**.
 
-  ## 🚀 Programming Languages
+## 🚀 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
