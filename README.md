@@ -74,6 +74,14 @@ I have been a competitive **chess player** for over two decades, sharpening my s
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /></a>
   </p>
 
+## 🤖 Coding Challenges
+<p align="left">
+  <a href="https://leetcode.com/puneet3modi"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.kaggle.com/puneetmodi"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/puneet3modi"><img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
+  <a href="https://platform.stratascratch.com/user/puneet3modi"><img src="https://img.shields.io/badge/-StrataScratch-4C6EF5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/R0lAAAA"/></a>
+</p>
+
 ## 💡 Certifications  
 - 🔬 **Google Data Analytics**  
 - 🧩 **AWS Generative AI**  
@@ -87,12 +95,4 @@ I have been a competitive **chess player** for over two decades, sharpening my s
   <a href="https://twitter.com/puneet3modi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
   <a href="https://medium.com/@puneet33modi"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white" /></a>
   <a href="https://www.chess.com/member/puneet33modi"><img src="https://img.shields.io/badge/-Chess.com-769656?logo=chess.com&logoColor=white" /></a>
-</p>
-
-## 🤖 Coding Challenges
-<p align="left">
-  <a href="https://leetcode.com/puneet3modi"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.kaggle.com/puneetmodi"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/puneet3modi"><img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
-  <a href="https://platform.stratascratch.com/user/puneet3modi"><img src="https://img.shields.io/badge/-StrataScratch-4C6EF5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/R0lAAAA"/></a>
 </p>
