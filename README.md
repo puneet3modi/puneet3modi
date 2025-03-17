@@ -2,11 +2,11 @@
 
 I'm a **Data Scientist** with an **MS in Applied Data Science from the University of Chicago** and currently pursuing an **MSc in Financial Engineering at WorldQuant University**. I also hold a **BS in Mathematics and Economics** from the University of Massachusetts Amherst.
 
-🔍 I'm passionate about **FinTech**, **Quantitative Research**, and **Data Science** — always exploring new ways to solve complex problems with data.
+I'm passionate about **FinTech**, **Quantitative Research**, and **Data Science** — always exploring new ways to solve complex problems with data.
 
-💡 My work leverages **machine learning** and **financial modeling**, enabling me to blend mathematical rigor with financial insight to build impactful, data-driven solutions.
+My work leverages **machine learning** and **financial modeling**, enabling me to blend mathematical rigor with financial insight to build impactful, data-driven solutions.
 
-♟️ Competitive **chess player** for over two decades, sharpening my strategic thinking and decision-making under pressure.
+I have been a competitive **chess player** for over two decades, sharpening my strategic thinking and decision-making under pressure.
 
 ## 🔗 Featured Repositories
 - [🧠 **ZenAI - Conversational AI Therapist**](https://github.com/zenn-ai/zen)
@@ -15,9 +15,9 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
 - [🤖 **Deciphering AI’s Influence on Industries and Occupations**](https://github.com/puneet3modi/natural-language-processing)
 - [♟️ **Chess Position Evaluation**](https://github.com/puneet3modi/machine-learning)
 - [📚 **Learning Equality – Curriculum Recommendations**](https://github.com/puneet3modi/Learning-Equality-Curriculum-Recommendations)
-- [📊 **Nifty100 Stock Price Prediction**](https://github.com/puneet3modi/Nifty50-Big-Data)
+- [🔍 **Nifty100 Stock Price Prediction**](https://github.com/puneet3modi/Nifty50-Big-Data)
 
-## 🧑‍💻 Tech Stack
+## 💻 Tech Stack
 
   #### 🚀 Programming Languages
   <p align="left">
@@ -74,9 +74,9 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /></a>
   </p>
 
-## 📚 Certifications  
-- 📊 **Google Data Analytics**  
-- ☁️ **AWS Generative AI**  
+## 💡 Certifications  
+- 🔬 **Google Data Analytics**  
+- 🧩 **AWS Generative AI**  
 - 🔷 **Microsoft Azure Fundamentals (AZ-900)**  
 - 🧮 Passed multiple **Actuarial exams**  
 
@@ -89,13 +89,7 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
   <a href="https://www.chess.com/member/puneet33modi"><img src="https://img.shields.io/badge/-Chess.com-769656?logo=chess.com&logoColor=white" /></a>
 </p>
 
-## 🚀 Coding Challenges
-- 🧠 **Kaggle**: [Kaggle Profile](https://www.kaggle.com/puneetmodi)
-- 🏅 **LeetCode**: [LeetCode Profile](https://leetcode.com/puneet3modi)
-- 🟩 **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/puneet3modi)
-- 🧩 **StrataScratch**: [StrataScratch Profile](https://platform.stratascratch.com/user/puneet3modi)
-
-## 🚀 Coding Challenges
+## 🤖 Coding Challenges
 <p align="left">
   <a href="https://leetcode.com/puneet3modi">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" />
@@ -110,4 +104,3 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
     <img src="https://img.shields.io/badge/-StrataScratch-4C6EF5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/R0lAAAA" />
   </a>
 </p>
-
