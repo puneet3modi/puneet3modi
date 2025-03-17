@@ -92,18 +92,18 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
 
 ## 🟩 Contribution Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puneet3modi&theme=tokyonight" />
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=puneet3modi&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneet3modi&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet3modi&theme=tokyonight" />
 </p>
 
 ## 🚀 Coding Challenges
