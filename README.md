@@ -79,7 +79,7 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
   <a href="https://github.com/puneet3modi"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/puneet3modi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/puneet3modi/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/puneet3modi"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/puneetmodi"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
   <a href="https://medium.com/@puneet33modi"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white" /></a>
   <a href="https://www.chess.com/member/puneet33modi"><img src="https://img.shields.io/badge/-Chess.com-769656?logo=chess.com&logoColor=white" /></a>
 </p>
