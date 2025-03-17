@@ -94,4 +94,4 @@ I'm a **Data Scientist** with an **MS in Applied Data Science from the Universit
 - 🏅 **LeetCode**: [LeetCode Profile](https://leetcode.com/puneet3modi)
 - 🟩 **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/puneet3modi)
 - 📊 **StrataScratch**: [StrataScratch Profile](https://platform.stratascratch.com/user/puneet3modi)
-- 🧩 **DataLemur**: [DataLemur Profile](https://datalemur.com/profile/puneet3modi)
+- 🧩 **DataLemur**: [DataLemur Profile](https://datalemur.com/profile/)
