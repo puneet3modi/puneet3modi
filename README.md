@@ -10,6 +10,7 @@ I have been a competitive **chess player** for over two decades, sharpening my s
 
 ## 🔗 Featured Repositories
 - [🧠 **ZenAI - Conversational AI Therapist**](https://github.com/zenn-ai/zen)
+- [🏦 **AI/ML in Financial Services**](https://github.com/puneet3modi/AI-ML-in-Financial-Services)
 - [📈 **Real-Time Trading Bot**](https://github.com/puneet3modi/real-time-trading-bot)
 - [📉 **Carbon Emission Policy Analysis**](https://github.com/puneet3modi/Time-Series-FP)
 - [🤖 **Deciphering AI’s Influence on Industries and Occupations**](https://github.com/puneet3modi/natural-language-processing)
