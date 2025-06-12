@@ -20,6 +20,9 @@
 ## 💡 What Drives Me
 I specialize in **algorithmic trading**, **stochastic modeling**, **behavioral finance**, and **machine learning**. I transform complex market data into alpha-generating strategies and uncover actionable insights in financial markets. My approach combines mathematical rigor with cutting-edge ML techniques to build robust, data-driven trading systems.
 
+## 🚀 Currently Seeking
+Full-time opportunities in **Quantitative Research** and **Data Science** at algorithmic trading firms, market makers, or hedge funds.
+
 ## 🎓 Academic Journey
 - **MSc Financial Engineering** - WorldQuant University (In Progress, GPA: 4.0)
 - **Certificate in Quantitative Finance (CQF)** - CQF Institute (In Progress)
