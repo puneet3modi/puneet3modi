@@ -1,22 +1,48 @@
-# **👨‍💻 Data Scientist | 📊 Quantitative Researcher | 💹 Financial Engineer**
+<h1 align="center">
+  Hi, I'm Puneet Modi 👋
+</h1>
 
-I'm a **Data Scientist** with an **MS in Applied Data Science from the University of Chicago** and currently pursuing an **MSc in Financial Engineering at WorldQuant University**. I also hold a **BS in Mathematics and Economics** from the University of Massachusetts Amherst.
+<p align="center">
+  <a href="https://www.linkedin.com/in/puneet3modi/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/puneet3modi"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="mailto:puneet3modi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/puneet3modi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@puneet33modi"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white" /></a>
+  <a href="https://www.chess.com/member/puneet33modi"><img src="https://img.shields.io/badge/-Chess.com-769656?logo=chess.com&logoColor=white" /></a>
+</p>
 
-I'm passionate about **FinTech**, **Quantitative Research**, and **Data Science** — always exploring new ways to solve complex problems with data.
+<h3 align="center">📊 Quantitative Researcher | 👨‍💻 Data Scientist | 💹 Financial Engineer | ♟️ Chess Enthusiast</h3>
 
-My work leverages **machine learning** and **financial modeling**, enabling me to blend mathematical rigor with financial insight to build impactful, data-driven solutions.
+<p align="center">
+  <em>"In chess and markets alike, the best move is often the one that creates the most possibilities."</em>
+</p>
 
-I have been a competitive **chess player** for over two decades, sharpening my strategic thinking and decision-making under pressure.
+## 💡 What Drives Me
+I specialize in **algorithmic trading**, **stochastic modeling**, **behavioral finance**, and **machine learning**. I transform complex market data into alpha-generating strategies and uncover actionable insights in financial markets. My approach combines mathematical rigor with cutting-edge ML techniques to build robust, data-driven trading systems.
+
+## 🎓 Academic Journey
+- **MSc Financial Engineering** - WorldQuant University (In Progress, GPA: 4.0)
+- **Certificate in Quantitative Finance (CQF)** - CQF Institute (In Progress)
+- **MS Applied Data Science** - University of Chicago (GPA: 3.98, Summa Cum Laude)
+- **BS Mathematics** - UMass Amherst (GPA: 3.66, Magna Cum Laude)
 
 ## 🔗 Featured Repositories
-- [🧠 **ZenAI - Conversational AI Therapist**](https://github.com/zenn-ai/zen)
-- [🏦 **AI/ML in Financial Services**](https://github.com/puneet3modi/AI-ML-in-Financial-Services)
-- [📈 **Real-Time Trading Bot**](https://github.com/puneet3modi/real-time-trading-bot)
-- [📉 **Carbon Emission Policy Analysis**](https://github.com/puneet3modi/Time-Series-FP)
-- [🤖 **Deciphering AI’s Influence on Industries and Occupations**](https://github.com/puneet3modi/natural-language-processing)
-- [♟️ **Chess Position Evaluation**](https://github.com/puneet3modi/machine-learning)
-- [📚 **Learning Equality – Curriculum Recommendations**](https://github.com/puneet3modi/Learning-Equality-Curriculum-Recommendations)
-- [🔍 **Nifty100 Stock Price Prediction**](https://github.com/puneet3modi/Nifty50-Big-Data)
+- 🧠 [**ZenAI - Conversational AI Therapist**](https://github.com/zenn-ai/zen)
+- 🏦 [**AI/ML in Financial Services**](https://github.com/puneet3modi/AI-ML-in-Financial-Services)
+- 📈 [**Real-Time Trading Bot**](https://github.com/puneet3modi/real-time-trading-bot)
+- 📉 [**Carbon Emission Policy Analysis**](https://github.com/puneet3modi/Time-Series-FP)
+- 🤖 [**AI’s Impact on Industries and Occupations**](https://github.com/puneet3modi/natural-language-processing)
+- ♞ [**Chess Positions Classifier**](https://github.com/puneet3modi/machine-learning)
+- 📚 [**Learning Equality – Curriculum Recommendations**](https://github.com/puneet3modi/Learning-Equality-Curriculum-Recommendations)
+- 🔍 [**Nifty100 Next-Day Price Predictor**](https://github.com/puneet3modi/Nifty50-Big-Data)
+
+## 💡 Certifications  
+- 💲 **Foundations in Financial Engineering**
+- 🔎 **Deep Learning for Computer Vision**
+- 🔬 **Google Data Analytics**  
+- 🧩 **AWS Generative AI**  
+- 🔷 **Microsoft Azure Fundamentals (AZ-900)**  
+- 🧮 Passed multiple **Actuarial exams**
 
 ## 💻 Tech Stack
 
@@ -28,6 +54,12 @@ I have been a competitive **chess player** for over two decades, sharpening my s
     <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white" /></a>
     <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white" /></a>
     <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/-Seaborn-3D3D3D?logo=seaborn&logoColor=white" /></a>
+    <a href="https://github.com/mrjbq7/ta-lib"><img src="https://img.shields.io/badge/-TA--Lib-4B8BBE?logo=python&logoColor=white" /></a>
+    <a href="https://github.com/quantopian/zipline"><img src="https://img.shields.io/badge/-Zipline-FF6B6B?logo=python&logoColor=white" /></a>
+    <a href="https://www.quantlib.org/"><img src="https://img.shields.io/badge/-QuantLib-00599C?logo=cplusplus&logoColor=white" /></a>
+    <a href="https://www.backtrader.com/"><img src="https://img.shields.io/badge/-Backtrader-2E7D32?logo=python&logoColor=white" /></a>
+    <a href="https://github.com/pmorissette/bt"><img src="https://img.shields.io/badge/-bt-1976D2?logo=python&logoColor=white" /></a>
+    <a href="https://github.com/ranaroussi/yfinance"><img src="https://img.shields.io/badge/-yfinance-9C27B0?logo=yahoo&logoColor=white" /></a>
     <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" /></a>
     <a href="https://keras.io/"><img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" /></a>
     <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" /></a>
@@ -60,7 +92,7 @@ I have been a competitive **chess player** for over two decades, sharpening my s
     <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white" /></a>
     <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black" /></a>
   </p>
-  
+
   #### ☁️ Cloud and DevOps
   <p align="left">
     <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" /></a>
@@ -81,19 +113,4 @@ I have been a competitive **chess player** for over two decades, sharpening my s
   <a href="https://www.kaggle.com/puneetmodi"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/puneet3modi"><img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
   <a href="https://platform.stratascratch.com/user/puneet3modi"><img src="https://img.shields.io/badge/-StrataScratch-4C6EF5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/R0lAAAA"/></a>
-</p>
-
-## 💡 Certifications  
-- 🔬 **Google Data Analytics**  
-- 🧩 **AWS Generative AI**  
-- 🔷 **Microsoft Azure Fundamentals (AZ-900)**  
-- 🧮 Passed multiple **Actuarial exams**  
-
-## 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/puneet3modi/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/puneet3modi"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/puneet3modi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://medium.com/@puneet33modi"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white" /></a>
-  <a href="https://www.chess.com/member/puneet33modi"><img src="https://img.shields.io/badge/-Chess.com-769656?logo=chess.com&logoColor=white" /></a>
 </p>
