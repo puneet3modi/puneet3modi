@@ -30,6 +30,7 @@ Full-time opportunities in **Quantitative Research** and **Data Science** at alg
 - **BS Mathematics** - UMass Amherst (GPA: 3.66, Magna Cum Laude)
 
 ## 🔗 Featured Repositories
+- 💹 [**Algorithmic Trading for Reversion and Trend-Following**](https://github.com/puneet3modi/Algorithmic-Trading-for-Reversion-and-Trend-Following)
 - 🧠 [**ZenAI - Conversational AI Therapist**](https://github.com/zenn-ai/zen)
 - 🏦 [**AI/ML in Financial Services**](https://github.com/puneet3modi/AI-ML-in-Financial-Services)
 - 📈 [**Real-Time Trading Bot**](https://github.com/puneet3modi/real-time-trading-bot)
