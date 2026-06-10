@@ -36,7 +36,7 @@ Full-time opportunities in **Quantitative Research** and **Data Science** at alg
 - 📈 [**Real-Time Trading Bot**](https://github.com/puneet3modi/real-time-trading-bot)
 - 📉 [**Carbon Emission Policy Analysis**](https://github.com/puneet3modi/Time-Series-FP)
 - 🤖 [**AI’s Impact on Industries and Occupations**](https://github.com/puneet3modi/natural-language-processing)
-- ♞ [**Chess Positions Classifier**](https://github.com/puneet3modi/machine-learning)
+- ♟️ [**Chess Positions Classifier**](https://github.com/puneet3modi/machine-learning)
 - 📚 [**Learning Equality – Curriculum Recommendations**](https://github.com/puneet3modi/Learning-Equality-Curriculum-Recommendations)
 - 🔍 [**Nifty100 Next-Day Price Predictor**](https://github.com/puneet3modi/Nifty50-Big-Data)
 
